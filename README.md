@@ -83,7 +83,7 @@ Trains and evaluates Gaussian Mixture Models with varying numbers of components,
 
 ## Results
 
-The final section of the script summarizes the accuracy of each classifier and provides a comparative bar chart.
+The final section summarizes the accuracy of each classifier and provides a comparative bar chart.
 
 Example Output
 
