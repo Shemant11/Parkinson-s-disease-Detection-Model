@@ -80,7 +80,14 @@ Trains a Random Forest classifier with 40 trees and a maximum depth of 15, evalu
 Trains and evaluates Gaussian Mixture Models with varying numbers of components, calculates accuracy, and visualizes the confusion matrix.
 
 ---
+## Sreenshots
+*Results Screenshots*
+![Results](https://github.com/Shemant11/Parkinson-s-disease-Detection-Model/blob/main/Screenshot%20(222).png)
+![Results](https://github.com/Shemant11/Parkinson-s-disease-Detection-Model/blob/main/Screenshot%20(223).png)
+![Results](https://github.com/Shemant11/Parkinson-s-disease-Detection-Model/blob/main/Screenshot%20(224).png)
+![Results](https://github.com/Shemant11/Parkinson-s-disease-Detection-Model/blob/main/Screenshot%20(225).png)
 
+---
 ## Results
 
 The final section summarizes the accuracy of each classifier and provides a comparative bar chart.
