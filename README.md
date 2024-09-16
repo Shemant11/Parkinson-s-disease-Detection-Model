@@ -46,7 +46,7 @@ The dataset used in this project is `Parkinsons.csv`. Ensure that this file is l
 To run the classification models and visualize the results, execute the following Python script:
 
 ```bash
-python classification_models.py
+python Parkinson Disease.py
 ```
 
 This script will:
